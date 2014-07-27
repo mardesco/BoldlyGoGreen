@@ -1,19 +1,17 @@
 === Boldly Go Green ===
 
-
 Contributors: Jesse Smith (mardesco) 
 
 Donate link: http://www.mardesco.com/payments/
 
 Tags: green, fixed-header, business
-Requires at least: 3.0.1
-
-Tested up to: 3.8
+Requires at least: 3.9.0
+Tested up to: 3.9.1
+Version: 0.1.4
 Stable tag: 0.1.1
 License: GPLv2 or later
 
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 
 
 A bold green WordPress theme, excellent for a business or nonprofit website.  Its continuing mission, to boldly go where no green has gone before!
@@ -39,31 +37,31 @@ Pinstripes aren't your thing? It's easy to remove them and show off the tasteful
 
 == Screenshots ==
 
-
-
 1. screenshot.png
-
-
 
 
 == Changelog ==
 
-= 
+= 0.1.4 =
+Corrected style.css to only use allowed values under "tags"
 
+= 0.1.3 =
+* Updated "Requires at least" and "Tested up to" tags in readme file, based on this thread concerning the parent theme: https://wordpress.org/support/topic/39-only#post-
+* Simplified credit link in footer.
+
+= 0.1.2 =
+Amended readme file to state that the bundled images are an original creation.
 
 = 0.1.1 = 
 Initial release.
 
 
-
-
 == License & support ==
-
 
 
 = License =
 
-"Boldly Go Green" is released under the GPLv2 license.  This includes all included CSS and image files.   Do what you want with them, make money if you can, I don't care.  
+"Boldly Go Green" is released under the GPLv2 license.  This includes all included CSS and image files.   Do what you want with them, make money if you can, I don't care.  The images are an original creation by Mardesco, released here under the GPL.  
 
 See also the parent theme's readme file for information about fonts & resources bundled with the parent theme.
 
