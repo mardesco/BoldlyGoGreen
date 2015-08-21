@@ -6,8 +6,8 @@ Donate link: http://www.mardesco.com/payments/
 
 Tags: green, fixed-header, business
 Requires at least: 3.9.0
-Tested up to: 3.9.1
-Version: 0.1.4
+Tested up to: 4.3
+Version: 0.1.5
 Stable tag: 0.1.1
 License: GPLv2 or later
 
@@ -41,6 +41,9 @@ Pinstripes aren't your thing? It's easy to remove them and show off the tasteful
 
 
 == Changelog ==
+
+= 0.1.5 =
+Added text domain.
 
 = 0.1.4 =
 Corrected style.css to only use allowed values under "tags"
